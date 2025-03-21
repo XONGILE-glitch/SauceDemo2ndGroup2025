@@ -1,4 +1,4 @@
-   # The Repo is SauceDemo95
+   # The Repo is SauceDemo2ndGroup2025
    This is the readme file that will explain all the setups about the project
    
    ## Softwares required 
