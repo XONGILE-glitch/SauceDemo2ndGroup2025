@@ -6,7 +6,7 @@
    * JDK
    * Maven
    ## Dependencies to install
-   * Seleniuma
+   * Selenium
    * Testng
 
 
